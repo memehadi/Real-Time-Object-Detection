@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>absolutely.f6fc5fb9-c24e-11ec-a89a-dca266310e4c.jpg</filename>
+	<path>C:\Users\Musab\Desktop\Real-Time-Object-Detection\Tensorflow\workspace\images\collectedimages\absolutely.f6fc5fb9-c24e-11ec-a89a-dca266310e4c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>absolutely</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>163</ymin>
+			<xmax>212</xmax>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

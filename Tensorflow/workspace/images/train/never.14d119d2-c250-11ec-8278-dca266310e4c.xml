@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>never.14d119d2-c250-11ec-8278-dca266310e4c.jpg</filename>
+	<path>C:\Users\Musab\Desktop\Real-Time-Object-Detection\Tensorflow\workspace\images\collectedimages\never.14d119d2-c250-11ec-8278-dca266310e4c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>never</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>219</ymin>
+			<xmax>316</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>
